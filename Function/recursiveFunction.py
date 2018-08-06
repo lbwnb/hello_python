@@ -26,4 +26,4 @@ def move(n,a,b,c):
         move(n-1,a,c,b)
         print(a,'-->',c)
         move(n-1,b,a,c)
-move(64,'a','b','c')
+move(3,'a','b','c')
